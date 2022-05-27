@@ -1,4 +1,4 @@
-import streamlit pandas
+import streamlit, pandas
   
 streamlit.title('My Mom\'s New Healthier Dinner')
 streamlit.header('Breakfast Menu')
